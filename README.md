@@ -3,7 +3,7 @@
 > 输入任意主题，自动生成「先现象、再探索、后解释」的 8 段式儿童科普互动内容骨架。
 > 为 9–12 岁孩子设计，支持 AI 生成、逐段编辑、标注筛选与导出。
 
-![科普 8 段式内容生成器](github-social-preview.png)
+![Science Story Builder.png](Science Story Builder.png)
 
 一个**纯本地、单文件 HTML** 的儿童科普内容设计工具。打开即用，无需安装、无需服务器、不上传任何数据。
 
