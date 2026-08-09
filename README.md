@@ -1,6 +1,7 @@
-# 科普 8 段式内容生成器 · Science Story Builder
+# Science Story Builder · 科普 8 段式内容生成器
 
 > 输入任意主题，自动生成「先现象、再探索、后解释」的 8 段式儿童科普互动内容骨架。
+>
 > 为 9–12 岁孩子设计，支持 AI 生成、逐段编辑、标注筛选与导出。
 
 ![Science Story Builder](./Science%20Story%20Builder.png)
@@ -22,7 +23,7 @@ https://github.com/user-attachments/assets/c174077a-f064-474a-ba90-00946d881f50
 <img width="2495" height="1211" alt="waiting" src="https://github.com/user-attachments/assets/02bcbf58-6e35-4c60-af65-8be1a987fb7f" />
 
 
-<br><br>
+<br>
 
  
 
