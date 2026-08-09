@@ -19,7 +19,8 @@ https://github.com/user-attachments/assets/c174077a-f064-474a-ba90-00946d881f50
 - 三种皮肤：**朴素版 / 碰撞版 / 内敛版**，右上角一键切换
 - 页面背景/顶图 支持上传本地图片，支持模糊程度自定义
 - 快来DIY你自己喜欢的背景吧！！！
-<img width="2499" height="1173" alt="waiting" src="https://github.com/user-attachments/assets/e13ff6b0-a14a-47a1-afa0-86f3ee93009a" />
+<img width="2495" height="1211" alt="waiting" src="https://github.com/user-attachments/assets/02bcbf58-6e35-4c60-af65-8be1a987fb7f" />
+
 
 <img width="2495" height="1257" alt="spiderman" src="https://github.com/user-attachments/assets/ecdef30e-61fe-4b03-8dce-82733e163f39" />
 
@@ -56,8 +57,8 @@ https://github.com/user-attachments/assets/c174077a-f064-474a-ba90-00946d881f50
 - 所有设置存 localStorage，重载后保留
 
 ### 🐹 卡皮巴拉伙伴
-- 为了防止等待AI生成时无聊，特意添加
-- 由 7 帧透明 PNG 组成的**咀嚼动画**，加载即就绪
+- 为了防止等待AI生成时无聊，特意添加（可在自定义中关闭）
+- 由 7 帧透明 PNG 组成的**咀嚼动画**，AI生成中持续咀嚼
 - **点击**：受击反馈 + 随机小字（好运 +1 / 美貌 +1 / 灵感 +1 …）三向飘出
 - **待机冷笑话**：鼠标6 秒没动，卡皮巴拉讲冷笑话（内置 22 条 + 可自定义）
 - **AI 生成时进度条**：进度条贴合卡皮巴拉头顶，随生成进度实时增长，完成后停在满格
