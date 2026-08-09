@@ -3,7 +3,10 @@
 > 输入任意主题，自动生成「先现象、再探索、后解释」的 8 段式儿童科普互动内容骨架。
 > 为 9–12 岁孩子设计，支持 AI 生成、逐段编辑、标注筛选与导出。
 
-![Science Story Builder](D:\1try field\9-12\Science Story Builder.png)
+![Science Story Builder](./Science%20Story%20Builder.png)
+
+
+
 
 一个**纯本地、单文件 HTML** 的儿童科普内容设计工具。打开即用，无需安装、无需服务器、不上传任何数据。
 
@@ -11,7 +14,7 @@
 
 ## ✨ 功能总览
 
-<video src="D:\22\OBS videos\3styles.mp4" controls=""></video>
+https://github.com/user-attachments/assets/c174077a-f064-474a-ba90-00946d881f50
 
 ### 🧠 AI 生成
 - 点击 **AI 生成 8 个部分**，接入大模型接口，按 8 段式结构为任意主题生成内容
@@ -45,14 +48,28 @@
 - 所有设置存 localStorage，重载后保留
 
 ### 🐹 卡皮巴拉伙伴
+- 为了防止等待AI生成时无聊，特意添加
 - 由 7 帧透明 PNG 组成的**咀嚼动画**，加载即就绪
 - **点击**：受击反馈 + 随机小字（好运 +1 / 美貌 +1 / 灵感 +1 …）三向飘出
 - **待机冷笑话**：鼠标6 秒没动，卡皮巴拉讲冷笑话（内置 22 条 + 可自定义）
 - **AI 生成时进度条**：进度条贴合卡皮巴拉头顶，随生成进度实时增长，完成后停在满格
 
+
+https://github.com/user-attachments/assets/c56322d2-ab86-44d8-a47f-02a319057e13
+
+
+
+https://github.com/user-attachments/assets/bf5848e1-815f-435f-8655-c5595a06fd9a
+
+
+
+https://github.com/user-attachments/assets/06c7f10d-5b4a-49d6-bd70-48c17dc15e73
+
+
+
 ### 🎨 外观与主题
 - 三种皮肤：**朴素版 / 碰撞版 / 内敛版**，右上角一键切换
-- 页面背景与顶图支持上传本地图片，支持模糊程度自定义
+- 页面背景/顶图 支持上传本地图片，支持模糊程度自定义
 
 ---
 
