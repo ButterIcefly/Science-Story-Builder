@@ -65,7 +65,9 @@ https://github.com/user-attachments/assets/bf5848e1-815f-435f-8655-c5595a06fd9a
 ### 🎨 外观与主题
 - 三种皮肤：**朴素版 / 碰撞版 / 内敛版**，右上角一键切换
 - 页面背景/顶图 支持上传本地图片，支持模糊程度自定义
+- 快来DIY你自己喜欢的背景吧！！！
 <img width="2499" height="1173" alt="waiting" src="https://github.com/user-attachments/assets/e13ff6b0-a14a-47a1-afa0-86f3ee93009a" />
+---
 <img width="2495" height="1257" alt="spiderman" src="https://github.com/user-attachments/assets/ecdef30e-61fe-4b03-8dce-82733e163f39" />
 
 ---
