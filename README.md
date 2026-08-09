@@ -15,7 +15,15 @@
 ## ✨ 功能总览
 
 https://github.com/user-attachments/assets/c174077a-f064-474a-ba90-00946d881f50
+### 🎨 外观与主题
+- 三种皮肤：**朴素版 / 碰撞版 / 内敛版**，右上角一键切换
+- 页面背景/顶图 支持上传本地图片，支持模糊程度自定义
+- 快来DIY你自己喜欢的背景吧！！！
+<img width="2499" height="1173" alt="waiting" src="https://github.com/user-attachments/assets/e13ff6b0-a14a-47a1-afa0-86f3ee93009a" />
 
+<img width="2495" height="1257" alt="spiderman" src="https://github.com/user-attachments/assets/ecdef30e-61fe-4b03-8dce-82733e163f39" />
+
+---
 ### 🧠 AI 生成
 - 点击 **AI 生成 8 个部分**，接入大模型接口，按 8 段式结构为任意主题生成内容
 - 支持OpenAl/Claude/DeepSeek / 硅基流动 / 通义千问等，选择后 Base URL 自动填充，也可自定义地址与模型名
@@ -62,16 +70,7 @@ https://github.com/user-attachments/assets/06c7f10d-5b4a-49d6-bd70-48c17dc15e73
 
 https://github.com/user-attachments/assets/bf5848e1-815f-435f-8655-c5595a06fd9a
 
-### 🎨 外观与主题
-- 三种皮肤：**朴素版 / 碰撞版 / 内敛版**，右上角一键切换
-- 页面背景/顶图 支持上传本地图片，支持模糊程度自定义
-- 快来DIY你自己喜欢的背景吧！！！
-<img width="2499" height="1173" alt="waiting" src="https://github.com/user-attachments/assets/e13ff6b0-a14a-47a1-afa0-86f3ee93009a" />
-### 
 
-<img width="2495" height="1257" alt="spiderman" src="https://github.com/user-attachments/assets/ecdef30e-61fe-4b03-8dce-82733e163f39" />
-
----
 
 ## 🚀 使用方法
 
