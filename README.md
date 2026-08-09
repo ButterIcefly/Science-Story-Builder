@@ -67,14 +67,14 @@ https://github.com/user-attachments/assets/bf5848e1-815f-435f-8655-c5595a06fd9a
 - 页面背景/顶图 支持上传本地图片，支持模糊程度自定义
 - 快来DIY你自己喜欢的背景吧！！！
 <img width="2499" height="1173" alt="waiting" src="https://github.com/user-attachments/assets/e13ff6b0-a14a-47a1-afa0-86f3ee93009a" />
----
+######
 <img width="2495" height="1257" alt="spiderman" src="https://github.com/user-attachments/assets/ecdef30e-61fe-4b03-8dce-82733e163f39" />
 
 ---
 
 ## 🚀 使用方法
 
-1. **打开**：直接用浏览器打开 `8段式内容生成器-最终版.html`（或用任意静态服务器托管）
+1. **打开**：直接用浏览器打开 `Science Story Builder.html`（或用任意静态服务器托管）
 2. **默认内容**：页面打开即展示「为什么会有影子」的完整 8 段内容
 3. **AI 生成**（可选）：
    - 点击工具栏 **AI 生成设置**
@@ -109,12 +109,12 @@ https://github.com/user-attachments/assets/bf5848e1-815f-435f-8655-c5595a06fd9a
 
 ```
 9-12/
-├── 8段式内容生成器-最终版.html   ← 主程序（单文件，所有功能内置）
+├── Science Story Builder.html   ← 主程序（单文件，所有功能内置）
 ├── capybara_individual_frames_for_claude/
 │   ├── capybara_frame_01.png ~ 07.png   ← 卡皮巴拉动画帧（透明 PNG）
 │   ├── CLAUDE_PROMPT.txt                ← 动画制作说明
 │   └── README.txt
-├── github-social-preview.png   ← GitHub 仓库介绍图
+├── Science Story Builder.png   ← GitHub 仓库介绍图
 └── README.md
 ```
 
