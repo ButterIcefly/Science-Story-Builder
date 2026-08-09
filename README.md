@@ -58,18 +58,15 @@ https://github.com/user-attachments/assets/c174077a-f064-474a-ba90-00946d881f50
 https://github.com/user-attachments/assets/c56322d2-ab86-44d8-a47f-02a319057e13
 
 
-
-https://github.com/user-attachments/assets/bf5848e1-815f-435f-8655-c5595a06fd9a
-
-
-
 https://github.com/user-attachments/assets/06c7f10d-5b4a-49d6-bd70-48c17dc15e73
 
-
+https://github.com/user-attachments/assets/bf5848e1-815f-435f-8655-c5595a06fd9a
 
 ### 🎨 外观与主题
 - 三种皮肤：**朴素版 / 碰撞版 / 内敛版**，右上角一键切换
 - 页面背景/顶图 支持上传本地图片，支持模糊程度自定义
+<img width="2499" height="1173" alt="waiting" src="https://github.com/user-attachments/assets/e13ff6b0-a14a-47a1-afa0-86f3ee93009a" />
+<img width="2495" height="1257" alt="spiderman" src="https://github.com/user-attachments/assets/ecdef30e-61fe-4b03-8dce-82733e163f39" />
 
 ---
 
