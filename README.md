@@ -144,7 +144,9 @@ https://github.com/user-attachments/assets/bf5848e1-815f-435f-8655-c5595a06fd9a
 
 ---
 
-### 🎉 感谢使用 Science Story Builder！
+<div align="center">
+
+### 🎉 感谢使用 Poppy-AI Answer Confetti！
 
 如果这个项目对你有帮助，欢迎 ⭐ Star 和 🍴 Fork！
 
