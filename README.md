@@ -144,8 +144,10 @@ https://github.com/user-attachments/assets/bf5848e1-815f-435f-8655-c5595a06fd9a
 
 ---
 
-## 🐙 关于
+### 🎉 感谢使用 Science Story Builder！
 
-Made with ♥ by [ButterIcefly](https://github.com/ButterIcefly)
+如果这个项目对你有帮助，欢迎 ⭐ Star 和 🍴 Fork！
 
-如果这个项目对你有帮助，欢迎 Star ⭐ 支持！
+**Made with ❤️ by [fenyr]**
+
+</div>
